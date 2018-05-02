@@ -2,7 +2,8 @@
 #define AnalogSensor_h
 //#include "WConstants.h"
 #include <Arduino.h>
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+//#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+#include "../arduino-basic-oo/ElementAbstract.h"
 
 //PhotoResistance
 //FlameSensor

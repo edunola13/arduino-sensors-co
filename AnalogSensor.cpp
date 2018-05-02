@@ -1,6 +1,7 @@
 //#include "WProgram.h"
 #include <Arduino.h>
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+//#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+#include "../arduino-basic-oo/ElementAbstract.h"
 #include "AnalogSensor.h"
 //
 //ANALOG SENSOR

@@ -1,5 +1,6 @@
 #include <Arduino.h>
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+//#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
+#include "../arduino-basic-oo/ElementAbstract.h"
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #include "HumTempDHT.h"

@@ -24,6 +24,10 @@
       {
           "name": "DHT sensor library",
           "author": "Adafruit"
+      },
+      {
+          "name": "Adafruit Unified Sensor",
+          "author": "Adafruit"
       }
   ],
   "version": "1.0.0",

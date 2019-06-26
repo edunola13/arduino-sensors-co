@@ -1,7 +1,8 @@
 //#include "WProgram.h"
 #include <Arduino.h>
 //#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
-#include "../arduino-basic-oo/ElementAbstract.h"
+//#include "../arduino-basic-oo/ElementAbstract.h"
+#include <ElementAbstract.h>
 #include "DistanceHCSR04.h"
 
 DistanceHCSR04::DistanceHCSR04() {

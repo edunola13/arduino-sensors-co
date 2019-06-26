@@ -1,0 +1,21 @@
+{
+  "name": "EnolaArduinoSensorsOO",
+  "keywords": "arduino, sensors, OO",
+  "description": "Arduino Library para simplificar uso de sensores",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/edunola13/arduino-general-sensors-oo.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Eduardo Sebastian Nola",
+      "email": "edunola13@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}

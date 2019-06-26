@@ -3,7 +3,8 @@
 //#include "WConstants.h"
 #include <Arduino.h>
 //#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.h"
-#include "../arduino-basic-oo/ElementAbstract.h"
+//#include "../arduino-basic-oo/ElementAbstract.h"
+#include <ElementAbstract.h>
 
 //PhotoResistance
 //FlameSensor

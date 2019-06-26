@@ -20,6 +20,10 @@
       {
           "name": "EnolaArduinoBasicOO",
           "version": "1.0.0"
+      },
+      {
+          "name": "DHT sensor library",
+          "author": "Adafruit"
       }
   ],
   "version": "1.0.0",

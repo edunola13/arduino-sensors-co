@@ -5,7 +5,7 @@
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/edunola13/arduino-general-sensors-oo.git"
+    "url": "https://github.com/edunola13/arduino-sensors-oo.git"
   },
   "authors":
   [
@@ -14,6 +14,13 @@
       "email": "edunola13@gmail.com",
       "maintainer": true
     }
+  ],
+  "dependencies":
+  [
+      {
+          "name": "EnolaArduinoBasicOO",
+          "version": "1.0.0"
+      }
   ],
   "version": "1.0.0",
   "frameworks": "arduino",

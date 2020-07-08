@@ -1,9 +1,3 @@
-#define TEST_SENSORS
-
-//ESTO ES NECESARIO PORQUE CUANDO SE LLAMA LA LIBRERIA DESDE EL VENDOR NO AUTOCARGA EL CPP
-#include "vendor/igniteit/arduino-basic-oo/JsonHelper.cpp"
-#include "vendor/igniteit/arduino-basic-oo/ElementAbstract.cpp"
-
 #include "AnalogSensor.h"
 #include "DigitalSensor.h"
 #include "DistanceHCSR04.h"
@@ -25,4 +19,3 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-
